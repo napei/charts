@@ -3,6 +3,16 @@ entries:
   ddns:
   - apiVersion: v2
     appVersion: 0.1.0
+    created: "2023-05-17T13:10:47.47926735Z"
+    description: Dynamic DNS Updater
+    digest: 7b19efe365cf53deee98b8b691969cddf99b650aaef871ea3906ddd30909b187
+    name: ddns
+    type: application
+    urls:
+    - https://github.com/napei/charts/releases/download/ddns-0.1.1/ddns-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 0.1.0
     created: "2023-05-17T13:08:00.506518358Z"
     description: Dynamic DNS Updater
     digest: ee31cf2a479aefabe9710fac7060314b1b342cf27b50ea5db3af760efc8596f4
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://github.com/napei/charts/releases/download/ddns-0.0.1/ddns-0.0.1.tgz
     version: 0.0.1
-generated: "2023-05-17T13:08:00.506538155Z"
+generated: "2023-05-17T13:10:47.47929295Z"
