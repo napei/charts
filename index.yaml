@@ -61,4 +61,15 @@ entries:
     urls:
     - https://github.com/napei/charts/releases/download/ddns-0.0.1/ddns-0.0.1.tgz
     version: 0.0.1
-generated: "2023-05-17T13:10:47.47929295Z"
+  service-selector:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-05-26T00:09:31.369178466Z"
+    description: Service selector
+    digest: 6cf2cfebd2ee3de717ce6a59b46ace2834a5db02fd7403295dc82befc852ecd2
+    name: service-selector
+    type: application
+    urls:
+    - https://github.com/napei/charts/releases/download/service-selector-0.0.1/service-selector-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-05-26T00:09:31.369212568Z"
