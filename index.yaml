@@ -63,6 +63,16 @@ entries:
     version: 0.0.1
   service-selector:
   - apiVersion: v2
+    appVersion: 0.0.2
+    created: "2023-05-27T04:18:55.587464839Z"
+    description: Service selector
+    digest: 7ac34057cbfe8164d4904b1f70f0826f6afd0cf45285d31056b92ab57aebac29
+    name: service-selector
+    type: application
+    urls:
+    - https://github.com/napei/charts/releases/download/service-selector-0.0.2/service-selector-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
     appVersion: 0.0.1
     created: "2023-05-26T00:09:31.369178466Z"
     description: Service selector
@@ -72,4 +82,4 @@ entries:
     urls:
     - https://github.com/napei/charts/releases/download/service-selector-0.0.1/service-selector-0.0.1.tgz
     version: 0.0.1
-generated: "2023-05-26T00:09:31.369212568Z"
+generated: "2023-05-27T04:18:55.587596539Z"
