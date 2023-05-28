@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  air-sensor-api:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-05-28T08:15:30.879876589Z"
+    description: Air sensor API
+    digest: 3aa5c8a827d70dc17640822a353b2c9d5a9af7f693b9c445b19e61f6569c82ba
+    name: air-sensor-api
+    type: application
+    urls:
+    - https://github.com/napei/charts/releases/download/air-sensor-api-0.0.1/air-sensor-api-0.0.1.tgz
+    version: 0.0.1
   ddns:
   - apiVersion: v2
     appVersion: 0.1.0
@@ -122,4 +133,4 @@ entries:
     urls:
     - https://github.com/napei/charts/releases/download/service-selector-0.0.1/service-selector-0.0.1.tgz
     version: 0.0.1
-generated: "2023-05-27T12:33:53.334775516Z"
+generated: "2023-05-28T08:15:30.879900489Z"
